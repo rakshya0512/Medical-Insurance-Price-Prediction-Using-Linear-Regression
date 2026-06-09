@@ -187,13 +187,3 @@ The project generates a scatter plot comparing actual and predicted insurance ch
 
 ---
 
-## Future Enhancements
-
-- Flask-based Web Application
-- Interactive Dashboard
-- Comparison of Multiple Regression Models
-- Hyperparameter Optimization
-- Cloud Deployment
-- Insurance Risk Classification
-
----
