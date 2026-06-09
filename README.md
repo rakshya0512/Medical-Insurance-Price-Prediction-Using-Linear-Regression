@@ -181,17 +181,9 @@ Predicted Insurance Cost = ₹ 4949.15
 
 The project generates a scatter plot comparing actual and predicted insurance charges.
 
-Generated Output:
+### Actual vs Predicted Insurance Charges
 
-```text
-results/actual_vs_predicted.png
-```
-
-You can also add the generated graph screenshot below:
-
-```md
 ![Actual vs Predicted Insurance Charges](results/actual_vs_predicted.png)
-```
 
 ---
 
